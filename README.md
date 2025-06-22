@@ -1,6 +1,5 @@
 # DynlMagic
 
-![UI Screenshot](https://github.com/aeroscissorz/DynlMagic.github.io/blob/main/Screenshot%202023-12-14%20213827.png)
 
 ## How to Run
 
